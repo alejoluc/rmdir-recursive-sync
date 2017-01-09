@@ -1,0 +1,11 @@
+{
+    "name"          : "rmdir-recursive-sync",
+    "version"       : "0.1.0",
+    "description"   : "Removes synchronously empty and nonempty directories",
+    "license"       : "MIT",
+
+    "repository"    : "https://github.com/alejoluc/rmdir-recursive-sync",
+    "author"        : "Alejo Lucangeli <alejolucangeli@gmail.com>",
+
+    "main"          : "index.js"
+}
