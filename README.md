@@ -1,8 +1,12 @@
 # rmdir-recursive-sync
 
-Deletes synchronously a directory whether it's empty or not.
+Deletes synchronously a directory wether it's empty or not.
 
 Returns `undefined` like node's standard [fs.rmdirSync()](https://nodejs.org/api/fs.html#fs_fs_rmdirsync_path) does.
+
+## Installation
+
+`npm install rmdir-recursive-sync`
 
 ## Usage
 
